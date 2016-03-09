@@ -1,0 +1,17 @@
+{
+    "name": "cameraapp.liu-xiao-guo",
+    "description": "description of cameraapp",
+    "architecture": "all",
+    "title": "cameraapp",
+    "hooks": {
+        "cameraapp": {
+            "apparmor": "cameraapp.apparmor",
+            "desktop":  "cameraapp.desktop"
+        }
+    },
+    "version": "0.1",
+    "maintainer": "XiaoGuo, Liu <xiaoguo.liu@canonical.com>",
+    "framework" : "ubuntu-sdk-15.04"
+}
+
+

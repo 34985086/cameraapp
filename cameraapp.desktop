@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=cameraapp
+Exec=qmlscene $@ Main.qml
+Icon=cameraapp.png
+Terminal=false
+Type=Application
+X-Ubuntu-Touch=true
+
